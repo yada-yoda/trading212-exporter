@@ -1,4 +1,4 @@
-/ Export investment table from https://live.trading212.com website
+// Export investment table from https://live.trading212.com website
 //
 // The main purpose is to export symbol, quantity and price
 //
